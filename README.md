@@ -6,7 +6,7 @@ I miss my moos =P
 
 It's just:
 
-		$ git clone git://github.com:tadeuzagallo/mac-moo
+		$ git clone git://github.com/tadeuzagallo/mac-moo.git
 		$ cd mac-moo
 		$ ./install.sh
 
