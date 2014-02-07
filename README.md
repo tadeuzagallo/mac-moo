@@ -1,20 +1,18 @@
 #mac-moo#
 
-Yeah, that's not one huge program that makes miracles...
-but I was used to develop on linux and since I moved to OS X 
-I miss my moos =P
+         (__)
+         (oo)
+   /------\/
+  / |    ||
+ *  /\---/\
+    ~~   ~~ 
+...."Have you mooed today?"....'
 
-It's just:
+Are you missing your moo's?
 
-		$ git clone git://github.com/tadeuzagallo/mac-moo.git
-		$ cd mac-moo
-		$ ./install.sh
+you can moo by
+		$ curl https://raw2.github.com/tadeuzagallo/mac-moo/master/moo | sh
 
-		$ mac-moo
-		         (__)
-		         (oo)
-		   /------\/
-		  / | ||
-		 * /\---/
-		    ~~ ~~ 
-		...."Have you mooed today?"....
+or save it
+		$ curl https://raw2.github.com/tadeuzagallo/mac-moo/master/moo > /some/where/in/your/path/moo
+    $ moo
