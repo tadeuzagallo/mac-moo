@@ -9,10 +9,14 @@
     ...."Have you mooed today?"....'
 
 Are you missing your moo's?
+--- 
 
-you can moo by
-      $ curl https://raw2.github.com/tadeuzagallo/mac-moo/master/moo | sh
+* You can moo by
 
-or save it
-      $ curl https://raw2.github.com/tadeuzagallo/mac-moo/master/moo > /some/where/in/your/path/moo
-      $ moo
+  `$ curl https://raw2.github.com/tadeuzagallo/mac-moo/master/moo | sh`
+
+* Or save it
+  ```
+  $ curl https://raw2.github.com/tadeuzagallo/mac-moo/master/moo > /some/where/in/your/path/moo
+  $ moo
+  ```
